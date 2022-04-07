@@ -7,12 +7,13 @@ It would be so cool to be visited by `Aliens` with weird names like *jbsdjfbksdi
 [Here's a link to a website that proves that aliens is real](https://en.wikipedia.org/wiki/Aliens_(film))
 
 ***
-![Now on a completely irrelevant note, here's the picture of the strongest creature in the world!](![image](https://user-images.githubusercontent.com/232099/162266045-891ca86c-7c41-4c35-ac72-4d94327c4496.png)
-)
+![Now on a completely irrelevant note, here's the picture of the strongest creature in the world!](https://www.ixpap.com/images/2022/03/Gojo-Satoru-Wallpaper-17.jpg)
 
 ---
 
 Also completely irrelevant, here's a list of unordered elements that just say the word ***List***
-*List
-*List
-*List
+
+* list
+* list
+* list
+
