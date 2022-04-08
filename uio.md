@@ -1,5 +1,3 @@
-# Do Aliens Exist in the world?
-## Topic 1: Can we assume that we truly alone in this universe?
 
 I personally believe that `Aliens` probably don't exist and it **SUCKS!**
 It would be so cool to be visited by `Aliens` with weird names like *jbsdjfbksdi*. It would be like really lit!

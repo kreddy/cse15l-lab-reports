@@ -1,3 +1,4 @@
+# holy shit that sounds fun!
 Still don't see the point of github!
 What does this thing even do?
 
