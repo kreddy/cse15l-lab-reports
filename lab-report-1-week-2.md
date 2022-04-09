@@ -16,7 +16,7 @@ To download VS Code, I went to the Visual Studio Code Website, https://code.visu
  ![RemoteConnect](RemoteConnect.png)
 
 
- ## **Trying some Commands:**
+## **Trying Some Commands:**
 
 In the lab, all of our groupmates tried out different kinds of commands to see what the output would be. I tried all the variations of the ls command. These were fun but I could not figure out what they were doing. The first one, ```ls -a```, showed all the hidden files in a directory. The second one, ```ls -l```, showed complete details of the file, such as when it was created, how memory size it takes up etc. The last one, ```ls -t```, listed the files in the directory based on time it was created, from the most recent file to the oldest file. The command I had found most interesting was the ls -lat command which listed the files in a directory and perfomed the functions of ls -a, -l, and -t at the same time.
 
