@@ -1,3 +1,3 @@
 # CSE 15L Lab Reports
 
-##  [Lab Report 1]()
+## 1. [Lab Report 1]()
