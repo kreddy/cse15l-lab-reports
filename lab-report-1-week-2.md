@@ -4,7 +4,7 @@
 
 ## **Installing VS Code:**
 
-To download VS Code, I went to the Visual Studio Code Website, https://code.visualstudio.com/ and followed the instructions. Since this process was very simple and there was no confusion, I was able to check how VS Code works with no difficulties at all.
+To download VS Code, I went to the [Visual Studio Code Website](https://code.visualstudio.com/) and followed the instructions. Since this process was very simple and there was no confusion, I was able to check how VS Code works with no difficulties at all.
 
 ![VSCode](VSCode.png)
 
