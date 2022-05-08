@@ -1,4 +1,4 @@
-# **CSE 15L Lab Report 2**
+# **CSE 15L Lab Report 3**
 ## Krishna Reddy
 *******
 
@@ -47,6 +47,6 @@ When we use the `git status` command it shows us that the MarkdownParse.java fil
 
 *******
 
-## **Copy whole directories with `scp -r`**
+## **Copy whole directories with `scp -r`:**
 
 
