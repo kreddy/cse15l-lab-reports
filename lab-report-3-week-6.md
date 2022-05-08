@@ -49,4 +49,25 @@ When we use the `git status` command it shows us that the MarkdownParse.java fil
 
 ## **Copy whole directories with `scp -r`:**
 
+**Copying the markdown-parse directory to ieng6 account:**
+
+![copyOver](copyOver.png)
+
+We can copy over our entire directory recursively using the `scp -r` command. Here is `.` after the `scp` command represents the current directory we are in that we want to copy over to the server. We can do this by providing the Hostname and a directory name to store the contents.
+
+**Logging into ieng6 account to compile and run the test files:**
+
+![test](TestnoScp.png)
+
+We can login to the server and see that our file has been recursively copied over. Now we can into the directory to which we copied our files and run the test files to see if they actually run. From the picture above we can see that the files do run!
+
+**Running all commands on the same line:**
+
+![oneline](Oneline.png)
+
+Using the command in the image we can copy over all of our files, login to the remote server, and run the files to check if they are actually running and working properly. By doing this we can notice that, it saves us a lot of time and keystrokes.
+
+******
+
+
 
