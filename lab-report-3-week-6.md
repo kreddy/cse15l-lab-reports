@@ -69,7 +69,7 @@ Using the command in the image we can copy over all of our files, login to the r
 
 ![oneLine2](testoneLine2.png)
 
-As we can see here, everything has been copied over and the test runs and we can see that it passes! Another important thing here is that, by doing this we can notice that, it saves us a lot of time and keystrokes.
+As we can see here, everything has been copied over and the test runs and we can see that it passes! Another important thing here is that, by doing this it saves us a lot of time and keystrokes.
 
 ******
 
