@@ -63,9 +63,13 @@ We can login to the server and see that our file has been recursively copied ove
 
 **Running all commands on the same line:**
 
-![oneline](Oneline.png)
+![oneline](testoneLine.png)
 
-Using the command in the image we can copy over all of our files, login to the remote server, and run the files to check if they are actually running and working properly. By doing this we can notice that, it saves us a lot of time and keystrokes.
+Using the command in the image we can copy over all of our files, login to the remote server, and run the files to check if they are actually running and working properly. As you can see above, all the files are being recursively copied over. Below you can see that after the files are copied to a directory on the server, we login to the server and `cd` into the directory we're storing our files in and then run the test file to see if everything is working properly.
+
+![oneLine2](testoneLine2.png)
+
+As we can see here, everything has been copied over and the test runs and we can see that it passes! Another important thing here is that, by doing this we can notice that, it saves us a lot of time and keystrokes.
 
 ******
 
