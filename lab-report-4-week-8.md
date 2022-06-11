@@ -95,3 +95,5 @@ Here, there is an `OutOfBoundsException`. To fix this, I think there would be a 
 
 **Ans:**
 Similar to the Snippet 2 above, I think this would also require more than 10 lines of code. For this snippet, in addition to the change that would require to consider to the issue for the `OutOfBoundsException` we also need to consider that links that line breaks are not considered. So, we would have add more code which can't be done in less than 10 lines and will not follow clean coding guidelines.
+
+*****
